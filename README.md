@@ -12,7 +12,6 @@ Skills: Java Spring Boot / Python / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Faiaz07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/faiazkhansoumik97/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Faiaz07)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiaz07)](https://github.com/anuraghazra/github-readme-stats)
 
