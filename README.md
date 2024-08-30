@@ -1,6 +1,6 @@
 
 ### Hi there 👋, I am Faiaz Khan Soumik
-#### CS Graduate
+#### CS Graduate and Junior Software Engineer
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faiaz07&theme=monokai)
 
